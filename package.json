@@ -1,5 +1,5 @@
 {
-  "name": "level-blue-promise",
+  "name": "level-bluebird-promise",
   "version": "0.0.1",
   "description": "Level DB Promise",
   "main": "index.js",

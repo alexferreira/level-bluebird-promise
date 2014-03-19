@@ -1,0 +1,27 @@
+{
+  "name": "level-blue-promise",
+  "version": "1.0.0",
+  "description": "Level DB Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git...."
+  },
+  "keywords": [
+    "LevelDb",
+    "Promise",
+    "SubLevel"
+  ],
+  "author": "Alex Ferreira",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "~1.1.1",
+    "lodash": "~2.4.1",
+    "level-manifest": "~1.2.0",
+    "level-sublevel": "~5.2.0",
+    "level": "~0.18.0"
+  }
+}
